@@ -1,11 +1,11 @@
 class script(object):
     START_TXT = """<b>𝖧𝖾𝗒 {}, 𝖨 𝖠𝗆 <a href=https://t.me/{}>{}</a>, 𝖧𝖺𝗉𝗉𝗒 🖤 𝖳𝗈 𝖧𝖺𝗏𝖾 𝖸𝗈𝗎
 
-Here You Can Request Movie's, Just Sent <a href='https://t.me/mcu_Mammootty_bot'>Movie Name</a> With Proper <a href='https://www.google.com/'>Google</a> Spelling..!!
+Here You Can Request Movie's, Just Sent <a href='http://t.me/MovieXrequest1Bot'>Movie Name</a> With Proper <a href='https://www.google.com/'>Google</a> Spelling..!!
 
 Fᴏʀ Mᴏʀᴇ Dᴇᴛᴀɪʟꜱ Cʟɪᴄᴋ /help
 
-Cᴏɴᴛᴀᴄᴛ Bᴏᴛ Dᴇᴠᴇʟᴏᴘᴇʀ (Oʀ) Rᴇᴘᴏʀᴛ Bᴜɢꜱ..!! 👉 @MCU_ADMIN_V1_BOT</b>"""
+Cᴏɴᴛᴀᴄᴛ Bᴏᴛ Dᴇᴠᴇʟᴏᴘᴇʀ (Oʀ) Rᴇᴘᴏʀᴛ Bᴜɢꜱ..!! 👉 @MAZHAVILADMINBOT</b>"""
 
     STATUS_TXT = """★ 𝚃𝙾𝚃𝙰𝙻 𝙵𝙸𝙻𝙴𝚂: <code>{}</code>
 ★ 𝚃𝙾𝚃𝙰𝙻 𝚄𝚂𝙴𝚁𝚂: <code>{}</code>
